@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Swapnali 👋
 
-<!--
-**Swapnali454/Swapnali454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+React & Frontend Developer with 3+ years of experience building scalable web applications.
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
+- React.js, JavaScript (ES6+), HTML, CSS
+- Node.js, REST APIs
+- MongoDB, MySQL
+- Tailwind CSS, Material UI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+- Build responsive, component-driven UIs
+- Integrate REST APIs and handle errors
+- Optimize frontend performance
+- Work on full-stack features with React + Node.js
+
+📍 Pune, India  
+🔗 LinkedIn: www.linkedin.com/in/swapnali-anarase-b87a49227
